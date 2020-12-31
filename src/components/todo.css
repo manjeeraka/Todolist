@@ -1,0 +1,11 @@
+.status-new {
+    background-color: blue;
+}
+
+.status-finished {
+    background-color : green;
+}
+
+.status-giveup {
+    background-color: red;
+}
